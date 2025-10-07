@@ -1,0 +1,2 @@
+# MyProjectPython
+Django Personal Project
