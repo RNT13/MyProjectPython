@@ -162,6 +162,6 @@ Seu projeto Django está configurado, versionado no GitHub e pronto para receber
 
 ---
 
-📘 **Autor:** _Renato Luiz_  
+📘 **Autor:** _Renato Minoita_  
 💻 **Tecnologia:** Django + Git + GitHub  
 📅 **Atualizado:** Outubro de 2025
